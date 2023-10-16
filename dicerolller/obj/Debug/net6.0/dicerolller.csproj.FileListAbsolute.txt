@@ -1,0 +1,14 @@
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\bin\Debug\net6.0\dicerolller.exe
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\bin\Debug\net6.0\dicerolller.deps.json
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\bin\Debug\net6.0\dicerolller.runtimeconfig.json
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\bin\Debug\net6.0\dicerolller.dll
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\bin\Debug\net6.0\dicerolller.pdb
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\dicerolller.GeneratedMSBuildEditorConfig.editorconfig
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\dicerolller.AssemblyInfoInputs.cache
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\dicerolller.AssemblyInfo.cs
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\dicerolller.csproj.CoreCompileInputs.cache
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\dicerolller.dll
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\refint\dicerolller.dll
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\dicerolller.pdb
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\dicerolller.genruntimeconfig.cache
+C:\devolpment\Grand_Circus_2023\dicerolller\dicerolller\obj\Debug\net6.0\ref\dicerolller.dll
